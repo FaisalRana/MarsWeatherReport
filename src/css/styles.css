@@ -1,0 +1,22 @@
+body {
+  background-color: black;
+  color: rgb(255, 251, 0);
+}
+
+.hidden-text {
+  display:none;
+  color:rgb(0, 255, 34);
+}
+
+.jumbotron {
+  background-color:transparent !important; 
+}
+
+#mars {
+  color:red;
+}
+
+img {
+  width:400px;
+  border: red solid;
+}
